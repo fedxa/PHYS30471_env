@@ -6,3 +6,6 @@ Generated following advice from https://discourse.jupyter.org/t/tip-speed-up-bin
 
 Use by clicking on the link:
 https://mybinder.org/v2/gh/fedxa/PHYS30471_env/main?urlpath=git-pull?repo=https://github.com/fedxa/PHYS30471.git
+
+Or use the following template for individual files:
+https://mybinder.org/v2/gh/fedxa/PHYS30471_env/main?urlpath=git-pull?repo=https://github.com/fedxa/PHYS30471.git%26urlpath=tree/PHYS30471.git/ODE_1D.ipynb
